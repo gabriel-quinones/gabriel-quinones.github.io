@@ -1,0 +1,47 @@
+[
+  {
+    "name":"Managing Oneself",
+    "shortname":"managing_oneself",
+    "description":"Read Managing Oneself by Peter F. Drucker",
+    "startDate":"6/11/2016",
+    "endDate":"7/1/2016",
+    "status":"Complete",
+    "MainTakeaway":[
+      {
+        "one":"Build on Strength",
+        "two":"Focus on Achievements and Results",
+        "three":"Learn from Feedback Analysis"
+      }
+    ]
+  },
+  {
+    "name":"7 Habits of Highly Effective People",
+    "shortname":"7_habits",
+    "description":"Read 7 Habits of Highly Effective People by Stephen Covey",
+    "startDate":"7/1/2016",
+    "endDate":"7/8/2016",
+    "status":"Complete",
+    "MainTakeaway":[
+      {
+        "one":"Move from dependence to independance",
+        "two":"Work on your Center of Influence",
+        "three":"Learn to Cooperate with others"
+      }
+    ]
+  },
+  {
+    "name":"Learn Basic Angular",
+    "shortname":"basic_angular",
+    "description":"Develope a Basic Angular Application",
+    "startDate":"7/1/2016",
+    "endDate":"",
+    "status":"In Progress",
+    "MainTakeaway":[
+      {
+        "one":"",
+        "two":"",
+        "three":""
+      }
+    ]
+  }
+]

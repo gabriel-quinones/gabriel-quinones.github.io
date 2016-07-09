@@ -1,0 +1,12 @@
+[
+  {
+    "name":"AngularJS v1.5.7",
+    "site":"https://angularjs.org/",
+    "license":"MIT"
+  },
+  {
+    "name":"Bootstrap v3.3.6",
+    "site":"http://getbootstrap.com",
+    "license":"MIT"
+  }
+]

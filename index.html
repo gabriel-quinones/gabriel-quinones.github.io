@@ -1,1 +1,18 @@
-Hello World
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+  <meta charset="utf-8" />
+  <title>Angular Basic Demo</title>
+  <script src="lib/angular/angular.min.js"></script>
+  <script src="js/controllers.js"></script>
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div ng-controller="MyController">
+      <h1>{{author.name}}</h1>
+      <p>{{author.company + ', ' + author.title}}</p>
+    </div>
+    <script src="lib/bootstrap/jquery.min.js"></script>
+    <script src="lib/bootstrap/bootstrap.min.js"></script>
+</body>
+</html>
