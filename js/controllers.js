@@ -4,6 +4,6 @@ myApp.controller('MyController', function MyController($scope){
   $scope.author = {
     'name' : 'Gabriel Quinones',
     'title' : 'Software Programmer',
-    'company' : 'Accenture'
+    'company' : 'Fannie Mae'
   }
 });
